@@ -50,7 +50,6 @@ As a user
 So that I can see only links I am interested in
 I can filter my existinging categories
 
-
 As a user
 So that I can manage my bookmarks only
 I can modify bookmarks I own
