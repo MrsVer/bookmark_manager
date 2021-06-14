@@ -21,4 +21,5 @@ I can see the list of bookmarks
 ```
 
 ### Domain Model
-.attachment/bookmark_manager1.png
+![Domain model](./attachments/bookmark_manager_1.png)
+
