@@ -14,6 +14,12 @@ Specification:
 ### User stories
 
 ```
-
+As a user
+So that I can quickly go to web sites I regularly visit
+I can see the list of bookmarks
 
 ```
+
+### Domain Model
+
+[https://github.com/MrsVer/bookmark_manager/blob/main/attachments/bookmark_manager_1.png?raw=true] (https://github.com/MrsVer/bookmark_manager/blob/main/attachments/bookmark_manager_1.png?raw=true)
