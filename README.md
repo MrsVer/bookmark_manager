@@ -1,5 +1,9 @@
 # bookmark_manager
 
+### [Makers Academy](http://www.makersacademy.com) - Week 4 Pair Programming Project
+#### Technologies: Ruby, Rspec, Sinatra, Heroku, HTML, CSS, Postgres, SQL, DataMapper
+
+
 Specification:
 
 - Show a list of bookmarks
